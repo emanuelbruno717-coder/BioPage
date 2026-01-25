@@ -1,11 +1,11 @@
-document.addEventListener('DOMContentLoaded', function() {
-    // ========== TROCA DE TÍTULO DA PÁGINA ========== //
-    const titles = ["</>", "!", "!R", "!Rz", "!Rzh", "!Rzh4", "!Rzh4r", "!Rzh4r0"];
-    let index = 0;
-    setInterval(function() {
-        document.title = titles[index];
-        index = (index + 1) % titles.length;
-    }, 300);
+// ========== TROCA DE TÍTULO DA PÁGINA ========== //
+const titles = ["</>", "!", "!d", "!do", "!dos", "!dosa", "!dosan", "!dosanj", "!dosanjo", "!dosanjos", "!dosanjos7"];
+let index = 0;
+
+setInterval(function () {
+    document.title = titles[index];
+    index = (index + 1) % titles.length;
+}, 300);
     
     // ========== CONFIGURAÇÃO DE ELEMENTOS ========== //
     const loadingScreen = document.getElementById('loading-screen');
@@ -989,6 +989,7 @@ document.addEventListener('DOMContentLoaded', function() {
     console.log('🎵 Player de música configurado');
     console.log('🎮 Efeito 3D ativado');
 });
+
 
 
 
