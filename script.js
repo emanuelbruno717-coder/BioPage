@@ -46,26 +46,10 @@ setInterval(function () {
     // ========== CONFIGURAÇÃO DA PLAYLIST ========== //
     const playlist = [
         {
-            title: "Volta Por Cima",
-            artist: "Meno Tody, Neo Beats",
-            audio: "assets/music/Volta_Por_Cima.mp3",
-            cover: "assets/img/silvasz.gif",
-            duration: 180,
-            color: "#ff0000"
-        },
-        {
-            title: "Meno do Rio",
-            artist: "Meno Tody",
-            audio: "assets/music/Meno_do_Rio.mp3",
-            cover: "https://i.pinimg.com/1200x/6a/40/8a/6a408a95b8b65eb256231e036e0dd87a.jpg",
-            duration: 180,
-            color: "#ff0000"
-        },
-        {
-            title: "Tantos Planos",
-            artist: "Brocasito, JayPluggz, Stuani",
-            audio: "assets/music/Tantos_Planos.mp3",
-            cover: "https://i.pinimg.com/originals/38/da/49/38da49184516d776027ca9ea2a726ddf.gif",
+            title: "Saudades",
+            artist: "MC Hariel, MC IG e MC PH",
+            audio: "assets/music/saudades.mp3",
+            cover: "assets/img/saudades.png",
             duration: 180,
             color: "#FF0000"
         }
