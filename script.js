@@ -48,7 +48,7 @@ setInterval(function () {
         {
             title: "Saudades",
             artist: "MC Hariel, MC IG e MC PH",
-            audio: "assets/music/saudade.mp3",
+            audio: "assets/music/dosanjos.mp3",
             cover: "assets/img/saudades.png",
             duration: 180,
             color: "#FF0000"
